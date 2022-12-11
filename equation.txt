@@ -1,0 +1,3 @@
+	x	y	t	xt	yt	xy	x^2	y^2	t^2
+xprime	8	0	0	0	0	-0.2	0	0	0		
+yprime	0	-12	0	0	0	0.2	0	0	0
